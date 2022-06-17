@@ -1,0 +1,8 @@
+name: Sample
+version: '${version}'
+main: io.github.donghune.sample.Sample
+api-version: 1.18
+prefix: [ SAMPLE ]
+authors: [ donghune ]
+description: sample
+website: https://github.com/donghune
